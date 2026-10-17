@@ -1,0 +1,7 @@
+{
+  "envId": "hust-eicweb-test-d8en09x415eefb0",
+  "$schema": "https://static.cloudbase.net/cli/cloudbaserc.schema.json",
+  "cloudrun": {
+    "name": "department-task-site"
+  }
+}
